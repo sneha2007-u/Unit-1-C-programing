@@ -11,6 +11,8 @@ The programs are designed to understand the basic concepts of **C++ programming 
 ## [👩‍🎓](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f469_200d_1f393/32.png) Student Details
 
 - **Student Name:** Sneha Udatewar
+- **PRN:** 125UEC1141
+- **Class/DIV:** S.Y.BTech 'C'
 - **Course:** Object Oriented Programming with C++
 - **Unit:** Unit I
 - **Year:** Second Year Engineering
